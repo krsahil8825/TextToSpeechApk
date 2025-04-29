@@ -7,7 +7,7 @@ This project is licensed under the Apache License 2.0.
 
 ## Credit
 If you use or modify any part of this project, you must provide visible credit:
-**"Originally created by [Kumar Sahil](https://github.com/krsahil8825) (yyyy)"**
+**"Originally created by [Kumar Sahil](https://github.com/krsahil8825)"**
 
 Copyright © 2024 Kumar Sahil. All rights reserved.
 Licensed under the Apache License 2.0.
